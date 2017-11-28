@@ -6,6 +6,7 @@ Welcome all the GCI participants. Please follow the following instructions to ge
 
 * Fork this repository.
 * Clone it to you local machine
+* Setting the Upstream for the fork ("git remote add upstream https://github.com/jboss-outreach/issue-and-pr/")
 * Create an issue introducing yourself.
 * Add a file to `/student` directory. The file name must be you name.
 * The file must be similar to the `student.md` file. 
